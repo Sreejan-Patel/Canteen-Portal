@@ -22,7 +22,6 @@ Install the community edition [here](https://docs.mongodb.com/manual/installatio
 
 ### React
 npm install -g create-react-app
-```
 
 ### Docker
 
